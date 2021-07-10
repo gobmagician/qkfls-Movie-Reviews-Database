@@ -2,4 +2,4 @@
 applications:
  - name: movies-reviews-database-d5a
    random-route: true
-   memory: 128M
+   memory: 64M
